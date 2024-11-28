@@ -1,8 +1,6 @@
-
-# Mauro Caetano Da Cuña
-
+<h1 align="center">🚀 Mauro Caetano Da Cuña</h1>
 <h3 align="center">
-    Fullstack Engineer | Freelance Developer | Software Developer
+    <p>Fullstack Engineer | Freelance Developer | Software Developer</p>
 </h3>
 Hi , I'm Mauro Caetano.
 
