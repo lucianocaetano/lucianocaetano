@@ -1,7 +1,8 @@
-<h1 align="center">🚀 Mauro Caetano Da Cuña</h1>
-<h3 align="center">
-    <p>Fullstack Engineer | Freelance Developer | Software Developer</p>
-</h3>
+<div align="center" style="background-color: yellow; padding: 50px 0;">
+  <h1>🚀 Mauro Caetano Da Cuña</h1>
+  <p>Fullstack Engineer | Freelance Developer | Software Developer</p>
+</div>
+
 Hi , I'm Mauro Caetano.
 
 A Bachelor's student in Communication Technologies (LIT) at UTEC Uruguay and Technology. A full-stack software developer and programming enthusiast, obsessed with the idea of ​​knowing more about computing.
