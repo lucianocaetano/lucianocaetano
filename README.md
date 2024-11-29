@@ -1,6 +1,7 @@
 <div align="center" style="background-color: yellow; padding: 50px 0;">
   <h1>🚀 Mauro Caetano Da Cuña</h1>
   <p>Fullstack Engineer | Freelance Developer | Software Developer</p>
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 </div>
 
 Hi , I'm Mauro Caetano.
@@ -35,7 +36,6 @@ During my training in the degree in Communication Technology (at UTEC Uruguay) a
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
 </div>
-
 
 
 ## 🔗 Links
