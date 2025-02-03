@@ -4,17 +4,16 @@
 
 </div>
 
-Hi , I'm Mauro Caetano.
+Hola, soy Mauro Caetano.
 
-A Bachelor's student in Communication Technologies (LIT) at UTEC Uruguay and Technology. A full-stack software developer and programming enthusiast, obsessed with the idea of ​​knowing more about computing.
-
+Estudiante de Licenciatura en Tecnologías de la Comunicación (LIT) en UTEC Uruguay y Tecnología. Desarrollador de software full-stack y entusiasta de la programación, obsesionado con la idea de saber más sobre informática.
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 ## ➡️  Experience
 
-Experience in Collaborative Work:
+Experiencia en Trabajo Colaborativo:
 
-During my training in the degree in Communication Technology (at UTEC Uruguay) and in the web development baccalaureate at UTU, I participated in various coding projects each semester, where I worked in multidisciplinary teams. This experience allowed me to develop skills in collaboration, project management, and collaborative problem-solving, which is critical to success in software development.
+Durante mi formación en la carrera de Tecnologías de la Comunicación (en UTEC Uruguay) y en el bachillerato de desarrollo web en la UTU, participé en diversos proyectos de codificación cada semestre, donde trabajé en equipos multidisciplinarios. Esta experiencia me permitió desarrollar habilidades en colaboración, gestión de proyectos y resolución colaborativa de problemas, lo cual es fundamental para el éxito en el desarrollo de software.
 
 ## 🛠 Lenguages and frameworks
 
