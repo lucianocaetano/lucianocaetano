@@ -30,7 +30,7 @@ Durante mi formación en la carrera de Tecnologías de la Comunicación (en UTEC
 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6WRZwsYKvmIxm0-MkGQPq2Z2qCJpggzfIg&s" alt="Laravel" width="30" height="30"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="30"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
 
