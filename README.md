@@ -2,7 +2,7 @@
   <h1>Mauro Caetano Da Cuña</h1>
   <p>Backend Engineer | Go & Java</p>
 </div>
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <p>
 Soy Mauro Caetano un apasionado por la informática, desarrollador con foco en Backend, Arquitectura de Software, infraestructura, especializado en Go, Java y Spring Boot. 
 
@@ -12,7 +12,6 @@ Actualmente curso la Licenciatura en Tecnologías de la Información en UTEC (Ur
 </p>
 
 Estudiante de Licenciatura en Tecnologías de la Comunicación (LIT) en UTEC Uruguay y Tecnología. Desarrollador de software full-stack y entusiasta de la programación, obsesionado con la idea de saber más sobre informática.
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-caetano-dev/)
