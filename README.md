@@ -1,41 +1,18 @@
-<div align="center" style="background-color: yellow; padding: 50px 0;">
-  <h1>🚀 Mauro Caetano Da Cuña</h1>
-  <p>Fullstack Engineer | Freelance Developer | Software Developer</p>
-
+<div align="left" style="background-color: yellow; padding: 50px 0;">
+  <h1>Mauro Caetano Da Cuña</h1>
+  <p>Backend Engineer | Go & Java</p>
 </div>
 
-Hola, soy Mauro Caetano.
+<p>
+Soy Mauro Caetano un apasionado por la informática, desarrollador con foco en Backend, Arquitectura de Software, infraestructura, especializado en Go, Java y Spring Boot. 
+
+Diseño y desarrollo sistemas robustos y arquitecturas limpias aplicando principios como DDD, patrones de diseño, SOLID, y buenas prácticas de ingeniería de software. Además, trabajo con React, TypeScript y JavaScript para construir Frontends modernos con buenas practicas como Atom Design cuando el proyecto lo requiere. 
+
+Actualmente curso la Licenciatura en Tecnologías de la Información en UTEC (Uruguay), donde complemento mis proyectos con formación académica en sistemas, redes, seguridad y gestión tecnológica.Me interesan especialmente los proyectos donde pueda participar en soluciones complejas desde el Backend y Frontend, y demostrar mi potencial. Disfruto aprendiendo de redes, infraestructura, seguridad y retando me a mi mismo con proyectos personales donde pueda crear sistemas complejos con arquitecturas y cosas nuevas que aprendo.
+</p>
 
 Estudiante de Licenciatura en Tecnologías de la Comunicación (LIT) en UTEC Uruguay y Tecnología. Desarrollador de software full-stack y entusiasta de la programación, obsesionado con la idea de saber más sobre informática.
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-
-## ➡️  Experience
-
-Experiencia en Trabajo Colaborativo:
-
-Durante mi formación en la carrera de Tecnologías de la Comunicación (en UTEC Uruguay) y en el bachillerato de desarrollo web en la UTU, participé en diversos proyectos de codificación cada semestre, donde trabajé en equipos multidisciplinarios. Esta experiencia me permitió desarrollar habilidades en colaboración, gestión de proyectos y resolución colaborativa de problemas, lo cual es fundamental para el éxito en el desarrollo de software.
-
-## 🛠 Lenguages and frameworks
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django Rest Framework" width="30" height="30"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
-
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6WRZwsYKvmIxm0-MkGQPq2Z2qCJpggzfIg&s" alt="Laravel" width="30" height="30"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="30"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
-</div>
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-caetano-dev/)
