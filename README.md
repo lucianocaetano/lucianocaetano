@@ -14,5 +14,10 @@ Actualmente curso la Licenciatura en Tecnologías de la Información en UTEC (Ur
 Estudiante de Licenciatura en Tecnologías de la Comunicación (LIT) en UTEC Uruguay y Tecnología. Desarrollador de software full-stack y entusiasta de la programación, obsesionado con la idea de saber más sobre informática.
 
 ## 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-caetano-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianocaetano1999@gmail.com)
+<a href="https://www.linkedin.com/in/mauro-caetano-dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:lucianocaetano1999@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
