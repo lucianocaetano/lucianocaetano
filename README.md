@@ -4,11 +4,16 @@
 </div>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <p>
-Soy Mauro Caetano un apasionado por la informática, desarrollador con foco en Backend, Arquitectura de Software, infraestructura, especializado en Go, Java y Spring Boot. 
+Soy Mauro Caetano, estudiante de la Licenciatura en Tecnologías de la Información (UTEC, Uruguay) y desarrollador de software con foco en Backend, Arquitectura de Software e infraestructura, especializado en Go y Java (Spring Boot).
 
-Diseño y desarrollo sistemas robustos y arquitecturas limpias aplicando principios como DDD, patrones de diseño, SOLID, y buenas prácticas de ingeniería de software. Además, trabajo con React, TypeScript y JavaScript para construir Frontends modernos con buenas practicas como Atom Design cuando el proyecto lo requiere. 
+Diseño y desarrollo sistemas robustos y escalables, aplicando principios como DDD, SOLID, patrones de diseño y buenas prácticas de ingeniería de software. Me apasionan los sistemas distribuidos, la observabilidad, las arquitecturas basadas en eventos y la construcción de soluciones complejas que integren rendimiento, mantenibilidad y escalabilidad.
 
-Actualmente curso la Licenciatura en Tecnologías de la Información en UTEC (Uruguay), donde complemento mis proyectos con formación académica en sistemas, redes, seguridad y gestión tecnológica.Me interesan especialmente los proyectos donde pueda participar en soluciones complejas desde el Backend y Frontend, y demostrar mi potencial. Disfruto aprendiendo de redes, infraestructura, seguridad y retando me a mi mismo con proyectos personales donde pueda crear sistemas complejos con arquitecturas y cosas nuevas que aprendo.
+Además de mi experiencia en Backend, trabajo con React, TypeScript y JavaScript para desarrollar interfaces modernas cuando el proyecto lo requiere, siguiendo enfoques como Atomic Design y una fuerte orientación hacia la calidad del software.
+
+Complemento mi formación académica con proyectos personales en los que exploro tecnologías relacionadas con microservicios, gRPC, OpenTelemetry, cloud, redes, infraestructura y seguridad. Disfruto enfrentar desafíos técnicos, aprender constantemente y llevar mis conocimientos al límite mediante la construcción de sistemas cada vez más complejos.
+
+Busco oportunidades donde pueda aportar, crecer profesionalmente y demostrar mi potencial como ingeniero de software, participando en el diseño y desarrollo de productos de alto impacto.
+
 </p>
 
 Estudiante de Licenciatura en Tecnologías de la Comunicación (LIT) en UTEC Uruguay y Tecnología. Desarrollador de software full-stack y entusiasta de la programación, obsesionado con la idea de saber más sobre informática.
